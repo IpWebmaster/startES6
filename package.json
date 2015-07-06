@@ -1,0 +1,25 @@
+{
+  "name": "start_es6",
+  "version": "1.0.0",
+  "description": "Faster start with ES2015",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IpWebmaster/startES6.git"
+  },
+  "author": "iv.popov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IpWebmaster/startES6/issues"
+  },
+  "homepage": "https://github.com/IpWebmaster/startES6#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-sourcemaps": "^1.5.2"
+  }
+}
